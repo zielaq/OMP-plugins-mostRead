@@ -34,6 +34,5 @@ and then upload plugin in Administration/Website Settings/Plugins
 
 License
 -------
-The plugin is developed by The Federation of Finnish Learned Societies and is released under [GNU General Public License, version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
-This OMP Plugin version based on OJS "Most Read" Block plugin forked from ajnyga/mostRead
+This OMP Plugin version based on OJS "Most Read" Block plugin forked from ajnyga/mostRead and was developed by The Federation of Finnish Learned Societies and is released under [GNU General Public License, version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
