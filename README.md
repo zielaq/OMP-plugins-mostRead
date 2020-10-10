@@ -1,4 +1,3 @@
-!early version maybe working not stable!
 Most Read Articles block plugin
 ===========
 Plug-in for version 3.1+ (including 3.2) of OMP.
